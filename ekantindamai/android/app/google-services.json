@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831340702711",
+    "project_id": "ekantin-app-c8c3a",
+    "storage_bucket": "ekantin-app-c8c3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831340702711:android:8fcef0efac9e481c0cdcf2",
+        "android_client_info": {
+          "package_name": "com.example.ekantinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6ibvEFXEs5dppLar61IXQs8msg4pLk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
